@@ -13,4 +13,5 @@ $ cp myclirc ~/.myclirc  # Use vi to operate sql
 
 ## References
 [易百教程](https://www.yiibai.com/mysql/sample-database.html)
-[mysql-command-line-tool-mycli](https://thevaluable.dev/mysql-command-line-tool-mycli/)
+
+[mycli](https://thevaluable.dev/mysql-command-line-tool-mycli/)
